@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaira</h1>
+<h1 align="center">Hi!! 👋, I'm Kaira</h1>
 <h3 align="center">A passionate Mern Web Developer</h3>
 
 
@@ -10,14 +10,14 @@
 
 - 🌱 Actualmente** Full Stack Mern **
 
-- 👯 Colabore en [barbershop](https://github.com/leandrogomez28/barbershop.git)
+- 👯 Colabore en [barbershop](https://github.com/leandrogomez28/barbershop.git),  [drd4](https://github.com/kairayary/drd4.git)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/kairayary](https://github.com/kairayary)
 
 - 📫 Cómo contactarme *kaira.abreu@gmail.com*
 
 - ⚡ Idiomas y herramientas
-     <p align="left">Css<br/>HTML<br/>Javascritp<br/>Reactjs<br/>Nodejs<br/>MongoDB<br/>Express<br/>Boostrap<br/>Materialze</br>  </p>
+     <p align="left">HTML<br/>CSS<br/>JAVASCRIPT<br/>REACTjs<br/>NODEjs<br/>MongoDB<br/>EXPRESS<br/>BOOTSTRAP<br/>MATERIALUI</br></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairayary&show_icons=true&locale=en&layout=compact" alt="kairayary" /> </p>
 <br/>
