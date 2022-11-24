@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kairayary&label=Profile%20views&color=0e75b6&style=flat" alt="kairayary" /> </p>
 
 
-- 🔭 Actualmente estoy trabajando en [proyectoMytinerary].(https://github.com/kairayary/proyectoMytinerary.git)
+- 🔭 Actualmente estoy aprendiendo JAVA
 
 
 - 🌱 Actualmente** Full Stack Mern **
